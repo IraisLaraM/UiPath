@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HKrL0vJUsUKDvQx3qpZ3gQ" Reference="WrsAHAtIWU2ZKpN7PnD3Uw/OBQuyUKVqU-uPUZFkF35Ow" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="350, 564, 43, 24" DesignTimeScaleFactor="1" FriendlyName="'acrobat.exe imm1294e_20…'" Guid="0fadbff1-d3c2-4c5c-8987-3f8b7a0ac7f2" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACsAAAAYCAYAAABjswTDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABlSURBVFhH7dexCYAwGERhdw5kAdMGbLOM4BoKdqkDWqY4+SGFA+QggSu+/rVvedaIvzc0WxpKdR5zxZaYYCz03C/cR5MxFMWyKJZFsSyKZVEsi2JZFMuiWBbFsswda3S3HVTn8QEyaGNttPy0fwAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='acrobat.exe' cls='AcrobatSDIWindow' title='imm1294e_2022 09.pdf (PROTEGIDO) - Adobe Acrobat Reader (64-bit)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="283, 547, 63, 17" FriendlyName="'acrobat.exe imm1294e_20…'" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAD8AAAARCAYAAABq+XSZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGLSURBVFhH7ZRbjcMwEEWXQiiUQiiUQimEQimUQiiUQiiUQiiUQtbHytHOWhN1V+qfe6Vp7Hn6ztj92jpG3+QL+OlV+h3+h3yvOCR/Op18F9s4jts8z7slx+Px2Ff/x7qutQa1WINpmuq+xe1225Zl2Xc/eD6fL2NbFJ/cCf35fK6FPFhWFPy12BGu12uNv9/vu+Y4J0OhAS3wJQa8hbzJ6Cj7y+VSb8AwDHVPczgwawVIhoO2NwIb8Qj5aaix+AsJ0Hh8bTw6bAj+ijm0mQ/xRrQoPq/JA/aSReg+Or7oWXNAm8GXgyOCxhmTxcdGSYAYSQB0kSCxxLmGqDZr0PAMxfaavMnZx8mrsxhwHUVEP8C6jRdZTnAUox5k/hmK7XdRgd5JxzfPl70TjgehMXYbHR1HJ7LJo4uHFTEnU/cGmbuNYY0Pg4o2/TMUW07e6fKlCb453zOFfLcU5IDsATrWSHvl4pvX1hIB6LzuiE8CP2xtTLzi0aZ/hmLLyfeAD/leUcnXBvDH1JXM2zez1YOal1gzZwAAAABJRU5ErkJggg==" SearchSteps="Image" TargetType="ImageBased" />
+          <Target DesignTimeRectangle="360, 584, 26, 13" FriendlyName="'acrobat.exe imm1294e_20…'" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABoAAAANCAYAAAC3mX7tAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEKSURBVDhPvZGxDYNADEWvToeUHokuNXU6JkBiBep0SExAmZYVWIEVWIF0aWkygHPPiqODSIgiui9Zts8+P864x1MkhsUDve69xLB4IOl7CS1PU6mvVxlvNzXnnHqrZ+ezVHmuMT45nb61qW1/+s1WoK4s9SLNDBnqWmPA1G1QcbloTg855+T0kXPPZpo5CTTPs2RZpjYMg6/7F/g4SRKtN02jec6LvPDknCP6OOu6TvNQKxACME2TQrlQVZUO4AxvMMTQ2n89+TiO6uk/BArFUIxhRVGsgAgPQFftAdZrLwx1CGTDLN6CgFBnCwbbahcUrkF/+melxHa2LIuu2/6brXurXdA/FQkk8gYh2jFTnQxgegAAAABJRU5ErkJggg==" SearchSteps="Image" TargetType="ImageBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e2be08de2868dda02798ad3b7e492d96.png" xmlns="">0ITUoor5gqUeeg_navBvh7g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

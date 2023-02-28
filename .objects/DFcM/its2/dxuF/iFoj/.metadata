@@ -1,0 +1,14 @@
+﻿{
+  "Id": "iFoj-JkQCUizykElv7Ejog",
+  "Reference": "WrsAHAtIWU2ZKpN7PnD3Uw/iFoj-JkQCUizykElv7Ejog",
+  "ParentRef": "WrsAHAtIWU2ZKpN7PnD3Uw/dxuFKJVPDkqf0qfgQk4VdQ",
+  "Name": "Click 'country t",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-15T18:15:13.1577782Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-15T18:15:13.1577782Z"
+}

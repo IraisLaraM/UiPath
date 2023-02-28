@@ -1,0 +1,14 @@
+﻿{
+  "Id": "kB5xQG_gM0Wc6WvsTcrh7Q",
+  "Reference": "WrsAHAtIWU2ZKpN7PnD3Uw/kB5xQG_gM0Wc6WvsTcrh7Q",
+  "ParentRef": "WrsAHAtIWU2ZKpN7PnD3Uw/JJWZVQoUnE6TD-_YlnAHjg",
+  "Name": "Click 'acrobat.exe Guardar como'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-24T21:59:56.9132336Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-24T21:59:56.9132336Z"
+}

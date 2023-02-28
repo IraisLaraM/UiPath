@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="alPmmfpIZ0KYmo93Qk3iug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="593, 432, 56, 46" DesignTimeScaleFactor="1" FriendlyName="'acrobat.exe imm1294e_20…'" Guid="f0d9d894-87be-4fc5-82c6-5fbb44be930a" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADgAAAAuCAYAAAB9CdqYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFSSURBVGhDY/g/SAADA22cMupBeoFRD5IJRj1ILzDqQTLBqAfpBWjnwZkz/w84Bjlk1IPkgQFNop8nDBEPZmWkkISDAnzB+oaMBw0MDP7funWTKLx508b/qqqqYH1DxoMODg7/v3/7+v/+nWsE8bSpU/4rKCiA9Q0pD375/PH/lQsnCOKpUyaNepCaYNSDxIBRDyLhUQ9SGYx6kBiA7MH5c6Zhbb3s3LZ+eHjw+OHd/6UkJcAOhmETY8PhE4MgvGblov88PDxgR6urqYI9Paw8CMKgpAryJCxpwvBoIUNlMOpBYsCoB5HwqAepDEY9SAwY9SASHrIePLB/3/9VK5YQxF1dnUPPg5aWFv8TE+L/R0VFEoUFBATA+oaMB6dO6gE3zUjBIEAXD4IMHih8pbDq/zJg8obxaQEGzdwErcAI8OAwB6MeHOpg1INDHQxzD/7/DwAvSVbUtOheGQAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='acrobat.exe' cls='AcrobatSDIWindow' title='imm1294e_2022 09.pdf (PROTEGIDO) - Adobe Acrobat Reader (64-bit)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="403, 426, 99, 23" FriendlyName="'acrobat.exe imm1294e_20…'" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAGMAAAAXCAYAAAAfiPFCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJvSURBVGhD7ZU9bgIxEEZT0yHlBHSpqdMh0UeiS02dDok+Eh1puQJX4ApcgSvQ5AAbnsUjs5uF/G2IC3/S4PGMPZ6Zz15uqoJsUMjICIWMjFDIyAiFjIxwcwA/RXKQIykFGaCQkRFOZGy322o0GlWLxSIJ4OkMBoOk/xV2u121Xq+Ps7/BZDKpptPpcfZ9/Hb/V3EiY7Vapcb3+/1EBk26BhnXOINLhvwUv93/VZzIGA6HqSk0h4O5rW2NkjDgHsCISCp78UMqcO46XiK3Dbsi2EMO2DjLl8MlYY4vxmVOTPzMyWG/3yfd82L82WyWbMZmLbefOWMTxlFv1tEVap8pkyFZEJMQNpD1jMhms0kjPhrCSAxsFuda5ow00Bix4cA1xEJY5+WQkGZcGiQZ+MzJxqODuAbSiG2u+rBHYItkuJ+ROrrC+3U5gAJIjpsCYhKCRLHHW63uLUNsBk0C6LGgNl0Yj6aje3Ox+fLwAdcJfTaYerChA/JBt0aAH7E2iRbY8F/Su0CNjCbaDvO/hILxIejYKNCClLbEz+mCOJBgXHQ/W1EAY9wvCdi0M7pePZLBPErztmMz1jm9C3ybDGBBNMkb6wuwgT75z4pwPU0U7IXU+ElRZx0+Xh6IsYCfvhjTfIFkEZM4rKf55MEZiP9HIp5xTu8CvHu+Pa2SDru9/WCf3t8n3/pAxurxMemz8Tj5mPd7vbRPwR5jRd31CHPE+Mjo7q7aPT+f7K5dPDx8iKUwx76dz2tz9P1yWYtDDcTnHGNtnp5q8eIZ5/Qu5CIZRa4riYzXl8Ok4N9RyMgIhYyMUMjICIWMjFDIyAZV9Qb0YYrVXq9SgwAAAABJRU5ErkJggg==" SearchSteps="Image" TargetType="ImageBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="90be2e76857fb7dcc94aeab28a900c11.png" xmlns="">0ebutvsU6oEGCI6-33PyRuQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

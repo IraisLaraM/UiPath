@@ -1,0 +1,14 @@
+﻿{
+  "Id": "-VKHZOp-rUWFwvEP4-UGEg",
+  "Reference": "WrsAHAtIWU2ZKpN7PnD3Uw/-VKHZOp-rUWFwvEP4-UGEg",
+  "ParentRef": "WrsAHAtIWU2ZKpN7PnD3Uw/dxuFKJVPDkqf0qfgQk4VdQ",
+  "Name": "Click 'acrobat.exe imm1294e_20…'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-15T18:06:38.0964772Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-15T18:06:38.0964772Z"
+}

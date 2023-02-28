@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nzqVIr3fZ0mIHIfGGCyTMQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="533, 417, 23, 19" DesignTimeScaleFactor="1" FriendlyName="'acrobat.exe imm1294e_20…'" Guid="d2bc060a-be30-4a0c-b317-1f91fd6a9b0e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABcAAAATCAYAAAB7u5a2AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABeSURBVDhPY/gPA8nJVMf0M9zX1o1sjG4wCGMYfm/9SZIx6YY//U809g2IhBqCCkYNhxqCCkYNhxqCCkYNhxqCCnAbTgIG6QPpR8cYhpOL0Q0GYRTDqY3pZDjVwf//AOzTkkqBN6WSAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='acrobat.exe' cls='AcrobatSDIWindow' title='imm1294e_2022 09.pdf (PROTEGIDO) - Adobe Acrobat Reader (64-bit)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="560, 414, 23, 22" FriendlyName="'acrobat.exe imm1294e_20…'" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABcAAAAWCAYAAAArdgcFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADRSURBVEhL7ZPbCYQwEEVtIS3Ygi3YghUI6WQhH9uADexHWrAFW0gLtjC7Z2DER2CFNR8LHrgkM4x38jDVBymmx/MlpVRJQSrpeyml2zyrw4U2TSPeexnHUWN+qWEYdA7EZ9lUhhDEOacGXddpjjm5eZ6X+CybypSS1HWtijFqzhqxG4uBndEUWe2ewzIonKZJGwFmzBnJmzkjDZDl9uSzK+xDjqxt28V0bWi5PafNwe4DzPCSlQNHZjGmdua5VcNX81/4Z/PMs71Kt3lWBS9U5A248yUOT4SlFgAAAABJRU5ErkJggg==" SearchSteps="Image" TargetType="ImageBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4230f2e600ed620ddee9eee6c4b53975.png" xmlns="">0kBBSJL6i406pQ6QKUfsmiQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

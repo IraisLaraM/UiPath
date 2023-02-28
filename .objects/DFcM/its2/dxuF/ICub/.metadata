@@ -1,0 +1,14 @@
+﻿{
+  "Id": "ICub38iXXUK2FvZEaSehYQ",
+  "Reference": "WrsAHAtIWU2ZKpN7PnD3Uw/ICub38iXXUK2FvZEaSehYQ",
+  "ParentRef": "WrsAHAtIWU2ZKpN7PnD3Uw/dxuFKJVPDkqf0qfgQk4VdQ",
+  "Name": "Click 'Citizens'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-20T23:34:01.1389785Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-20T23:34:01.1389785Z"
+}

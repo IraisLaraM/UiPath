@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OSpAZlJpXEWNYZDOZGsywg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="596, 382, 20, 21" DesignTimeScaleFactor="1" FriendlyName="'acrobat.exe imm1294e_20…'" Guid="6ae0910d-f942-4180-8dbd-a1ee12fa85c3" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABlSURBVDhPYwCC/1TFrT3L/lMTM/ynMmD4n5z8n5qYdgb62rqRhZENA2EUA++tP0kSxm4gFPgGRP6/9/Q/SRikBx2MGohdIy48aiAYDAUDoVmGelkPygBJkoORDQNh2hVf1MHJ/wHsNBxEOCh9YAAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='acrobat.exe' cls='AcrobatSDIWindow' title='imm1294e_2022 09.pdf (PROTEGIDO) - Adobe Acrobat Reader (64-bit)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="614, 380, 29, 23" FriendlyName="'acrobat.exe imm1294e_20…'" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB0AAAAXCAYAAAD3CERpAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVEhL7ZK7DYNQDEVZgRVYgRVYgQmQ3gpMEIkiC7BAClZgBVYgXVpWcHKsOEWEI0HCowhXuuD3kQ82Tq43kdjeB/oQj7g+nS8S24nsoESqSmL7gG7q2UHK81xCCNL3vWRZJk3T6P4wDDry0zTperE8KIA0TTV5WZYKZo1Y13Wt8Sp50HEctTrcdZ3uUTkw4FTJHfb4MO7RAc5t7cqDImAkIjmiWhJam4uieMVt2yqIc/tIV5+gcyIpcIvfDZBOMAuuvoGS3Co10RVazz26NKs1UEvG2/4ppjqLGTZXS6E/0R9Cn0FMH9ANXckdvB0d524kOdwAAAAASUVORK5CYII=" SearchSteps="Image" TargetType="ImageBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="35fdc1ef48a1d5ca0b0562030a731de1.png" xmlns="">0EuK-K5XMWkGyyKKfHmQ9lQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "Qb1YqlSbo0Oh_po5JZUdoQ",
+  "Reference": "WrsAHAtIWU2ZKpN7PnD3Uw/Qb1YqlSbo0Oh_po5JZUdoQ",
+  "ParentRef": "WrsAHAtIWU2ZKpN7PnD3Uw/dxuFKJVPDkqf0qfgQk4VdQ",
+  "Name": "Type Into Country",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-14T17:00:51.7138699Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-14T17:00:51.7138699Z"
+}

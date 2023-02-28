@@ -1,0 +1,14 @@
+﻿{
+  "Id": "3QM0s5JeskeGfppvQO7geA",
+  "Reference": "WrsAHAtIWU2ZKpN7PnD3Uw/3QM0s5JeskeGfppvQO7geA",
+  "ParentRef": "WrsAHAtIWU2ZKpN7PnD3Uw/dxuFKJVPDkqf0qfgQk4VdQ",
+  "Name": "Click  Service",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-14T16:25:05.2121791Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-14T16:25:05.2121791Z"
+}

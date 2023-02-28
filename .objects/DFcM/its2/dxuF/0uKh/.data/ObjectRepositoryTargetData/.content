@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ihpa_J_cFEe9ZvTmtyE7Dw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="452, 444, 237, 24" DesignTimeScaleFactor="1" FriendlyName="'acrobat.exe imm1294e_20…'" Guid="f07920e3-327b-45a3-a967-4fad6cc26536" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAO0AAAAYCAYAAAAWEnolAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC6SURBVHhe7dW9CcJAAIbhrJM6C1i4kFXA3t7WBZzIVjsncIDTHBERLfwD88HzwUPuSP1yTfnh+r4vXdeNNzP71ZrmlurttNl8Zb9alXnb1u+z/8DnarTD+bKHaE9rYGpEC2FeivZwLMCfiRbCiBbCiBbCiBbCiBbCiBbCiBbCiBbCiBbCiBbCiBbCiBbCiBbCiBbCiBbCvBUtMB2ihTB30Q6XwXY2q3aLJTAx10ZrrzXdYeNLC0xYKeUMpF7OcWuUZcQAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='acrobat.exe' cls='AcrobatSDIWindow' title='imm1294e_2022 09.pdf (PROTEGIDO) - Adobe Acrobat Reader (64-bit)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="437, 417, 77, 16" FriendlyName="'acrobat.exe imm1294e_20…'" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAE0AAAAQCAYAAABTGfKZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHCSURBVFhH7ZR9cQIxEEexgAUsnAUsYAELWMACFrCABSxgAQvXvpu89tc0RzmG/nX3ZpZLNvuRbJas+oXJrD7hZ5EpUoo3GZznylK0F2iefLvdfrUi4xZL0So2m02/2+360+nUXy6Xov3JWNHwZW29Xg8x7vf7MN/v98Xi/ZzP5yFfXvBYzuPx2DwT+7zdbsMYv0dN0VzBgYI9YiwoejbP5hj7/c+iWbDr9Vo040XjUtlTTdpPLpqdgZBgaqdlcsd+uUk7seu6IRccDofh4Ag2zLHBNgsBaUtM4yNZDP2xy3Og1w+9YoyM6ZodKM2TkwDBgaQtCNoC/VinUSTmdLFrOSYnfzXmfCksImlrXHXkzMOhw9dzIOqzMHZoxnDNHFxU8uvkOLERkpHUZDUEa4Eeodj1m0Zs4mmTmxfnKVLbMlbHN0ld+qlPHfxln3x7FbwZjOvbSzJh0kxSdG7G7mDubdppzlnjhrGVR53WypmdZsdq615Ee7ou17RP2id/gkyYNJMUHRvyjfFNAr7MEf8ezuu/Rr5pro3l5NKxsxjqsUUYi5dAzFzTPnl70ebAUrQX4FHgsSjT55l10Tj8qzJP+v4Dn7mjMLQCsHwAAAAASUVORK5CYII=" SearchSteps="Image" TargetType="ImageBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0c23a7e8a902e666b8b431eb63cf02a8.png" xmlns="">0qatGQV-XfkW6L-KXg8WbzA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

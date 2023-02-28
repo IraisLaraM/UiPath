@@ -1,0 +1,14 @@
+﻿{
+  "Id": "PEmP_aqe-EuPqNpM_jq2Zw",
+  "Reference": "WrsAHAtIWU2ZKpN7PnD3Uw/PEmP_aqe-EuPqNpM_jq2Zw",
+  "ParentRef": "WrsAHAtIWU2ZKpN7PnD3Uw/dxuFKJVPDkqf0qfgQk4VdQ",
+  "Name": "Click 'No'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-20T21:42:22.5995Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-20T21:42:22.5995Z"
+}
