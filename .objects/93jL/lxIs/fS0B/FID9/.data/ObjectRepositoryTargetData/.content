@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SCyxQTq9DUakvCFlqYzr2g" Reference="WrsAHAtIWU2ZKpN7PnD3Uw/FID9HmHTPUWocng6dhZMiw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1075, 152, 30, 30" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Ubicaciones anteriores'" FullSelectorArgument="&lt;wnd cls='ToolbarWindow32' title='Barra de herramientas de área de dirección' /&gt;&lt;ctrl name='Barra de herramientas de área de dirección' role='tool bar' /&gt;&lt;ctrl name='Ubicaciones anteriores' role='push button' /&gt;" FuzzySelectorArgument="&lt;wnd cls='ToolbarWindow32' title='Barra de herramientas de área de dirección' /&gt;&lt;ctrl name='Barra de herramientas de área de dirección' role='tool bar' /&gt;&lt;ctrl name='Ubicaciones anteriores' role='push button' automationid='' check:text='Ubicaciones anteriores' /&gt;" Guid="220ab4fa-6926-4556-a201-1944940c9885" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACZSURBVFhH7dJbCoAgFIThlu4mXJS4Ahfi84mB7DL0ICp0iPlBMA38sDZzkh9IKcU8jM9vBAgkSEsQThBOEE4Q7j+QnLPVWo+nK6xhr7cpSErJQggWY3xgMMca9vBOT1OQ+4EN87bW0/Sn4YNHEGjJz3rHjCDQEghqmBEEWgZBAIwg0FLITIJwgnCCcIJwJwQTD+PzG2k5gZjtFv6yiLB/hAQAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='explorer.exe' cls='CabinetWClass' title='ClientManager' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="89, 156, 24, 29" ElementType="Toolbar" FriendlyName="'Barra de'" FullSelectorArgument="&lt;wnd cls='ToolbarWindow32' title='Barra de herramientas de área Subir' /&gt;" FuzzySelectorArgument="&lt;wnd cls='ToolbarWindow32' title='Barra de herramientas de área Subir' check:text='Barra de herramientas de área Subir' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABwAAAAhCAYAAADK6cvnAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACiSURBVEhL7dJNCsQgDIbhObqHqOCBFLyC5/Bnm+ErbXGEMolIFyUvuDAID4oferCUEim4NAWXNw2WUqi1duz4TYHArLXknKNa6zHlJQYBADPG7Auo5KYicMRmUDbYYz26bZsIZYEjhv0J5pxFKAv03v9g6ARRj8YY99ld7CcNIVwY6kEEFGf+Jfo0fSPITcHb3g/OpuDyFFze+0Gk4PIeBom+KRsQsr0+hBUAAAAASUVORK5CYII=" SearchSteps="Selector, FuzzySelector, Image" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="946717ebf99ae0ee36df6e0f0576b758.png" xmlns="">0CnuBO_WEWkqJEuOJjK4Myw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

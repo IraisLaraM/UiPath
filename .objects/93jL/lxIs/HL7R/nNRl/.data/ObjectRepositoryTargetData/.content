@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="44j8Yj1zYkqJWdACAnqOSg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="470, 434, 88, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'unchecked'" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Guardar' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Guardar' check:text='unchecked' /&gt;" Guid="bc9ca6cc-7f52-4ec1-b4cb-bdac0a4b43e3" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAFwAAAAeCAYAAAChf3k/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFXSURBVGhD7ZbBkcMgDEXpiW6oZG+0QitUsWd34A4UQ+yJRLDHSWRx8D+8GQspyvDAYDfPMwE7INwYCDdGCHd//+AChGMRdIrB7wjHIlgLpmkCCkC4MRBuDIQbA+HGjBeeI3nnyG34SLlXp0Ki4DzF3MvZMFZ4lS0FpBAo8RpVbi08U/SOQurlruLOwuvuPtrNrRwZp8COoZBETQh+GV97syPLx/hdD0XGCmfndY5lgmXym5Bj4S/4eHkuYjPLvd6i53982kOXscLfdlA7cS6niVNYF+hgkZpF/aqHMuOEdyfGx9o8i8Vilbtg5zdHws/2UGag8O0V57ucT7a5VOtuXHPleRNZxe3JKvHOkXK6hy5DhVfEa92cnTy3fC62i1HH/TJ+tDtZD3lpftBDkfHCbwaEGwPhxkC4MRBuDIQbc1o40EU4FkGnGPyOcMwDcD0QbgyEmzLTA5FgXzR3YxXLAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='googledrivefs.exe' cls='#32770' title='Añadir acceso directo a Drive' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dbba8705322ea9cbf172ad1c7d23a584.png" xmlns="">0oH4GmZxN-UK_U2Z-GNqIBQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

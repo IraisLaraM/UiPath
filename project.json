@@ -3,9 +3,10 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "System.Resources.ResourceManager": "[4.3.0]",
     "UiPath.AdobePdfServices.IntegrationService.Activities": "[4.0.6]",
     "UiPath.Excel.Activities": "[2.17.0-preview]",
-    "UiPath.GSuite.Activities": "[2.0.0-preview]",
+    "UiPath.GSuite.Activities": "[2.0.3]",
     "UiPath.Mail.Activities": "[1.18.2]",
     "UiPath.PDF.Activities": "[3.12.0-preview]",
     "UiPath.System.Activities": "[22.10.4]",
@@ -24,6 +25,7 @@
     "isAttended": false,
     "requiresUserInteraction": true,
     "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
     "excludedLoggedData": [
       "Private:*",
       "*password*"

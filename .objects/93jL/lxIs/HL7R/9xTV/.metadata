@@ -1,0 +1,14 @@
+﻿{
+  "Id": "9xTVQmmIK02MKZhnFHWa8g",
+  "Reference": "WrsAHAtIWU2ZKpN7PnD3Uw/9xTVQmmIK02MKZhnFHWa8g",
+  "ParentRef": "WrsAHAtIWU2ZKpN7PnD3Uw/HL7Rq8LRIU2g2_Q10LpYlw",
+  "Name": "Type Into 'Dirección G'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-14T00:33:41.4105789Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-14T00:33:41.4105789Z"
+}

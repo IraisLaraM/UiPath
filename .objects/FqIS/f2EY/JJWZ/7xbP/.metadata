@@ -1,0 +1,14 @@
+﻿{
+  "Id": "7xbPCY82A0GncLC883xBrw",
+  "Reference": "WrsAHAtIWU2ZKpN7PnD3Uw/7xbPCY82A0GncLC883xBrw",
+  "ParentRef": "WrsAHAtIWU2ZKpN7PnD3Uw/JJWZVQoUnE6TD-_YlnAHjg",
+  "Name": "Click 'Color de'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-06T19:06:28.1679517Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-06T19:06:28.1679517Z"
+}

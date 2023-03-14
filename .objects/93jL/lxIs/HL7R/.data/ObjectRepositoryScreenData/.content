@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="IV0hmmQn90aWKQDwmtbgjw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="35, 16, 683, 480" FilePath="C:\\Program Files\\Google\\Drive File Stream\\71.0.3.0\\googledrivefs.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC+SURBVDhPY6AaeHY69f7z02n/CWGQOqgWVACS/PNiAUEMUgfVggrQDcifd/a/WeP9/7XLTqCIE2XA4VOb/idOvwhmJ8y49P/SpbWkGfDu4ZL/Lp23/i/fvRtM37+5kjQDQPgBUFP32iP/LyLZDsIEDQBpCJpwDex/V6DtIDoB6B2YKwgaAHLy4dOb4DaCMIhv1nT//6vzuWADsEYlzACp4hdgW9ExSBymBqsrYJL48HA3gNjMBMI4MxTpgIEBAKD+CSC2gzzAAAAAAElFTkSuQmCC" Selector="&lt;wnd app='googledrivefs.exe' cls='#32770' title='Añadir acceso directo a Drive' /&gt;">
+      <imageRef attrName="InformativeScreenshot" originalValue="bb785319b7dcc0a828c6bebe44f49397.png" xmlns="">0zpJVc211Ik-kqNBTsddeRA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

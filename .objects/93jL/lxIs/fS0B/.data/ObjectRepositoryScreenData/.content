@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="US8DNDjVKUiD-18ugwakbA" Reference="WrsAHAtIWU2ZKpN7PnD3Uw/fS0B36s31UWs__PX8nAcLA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" Arguments="g:" ContentHash="eF3M9ySzpUOu5qXVaXCi3w" FilePath="C:\\Windows\\explorer.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHGSURBVFhH7ZXLSgJRAIYlaNVLBG1ajDpeUBERNwkGaisfwURczCO0cKci3Vai7orUcZKKCoqg26IioStUdLLMHuNv5jRp4gw0oS1qPvhhmMV8H5wDY9DR0dHR0dH5ExDyNtp4eeVIs8nKrwbPp7Tx3Ko3Xlro7JU8PbeyA4lRl6qtDzHapWrTENM/afdIo4n7B4KLy2siqzoMWnp5dYvTs3McHB5jZ3cPsrZDNBrF9HQMs/MLODmrK37su1OTbm5tY219A6u1NeWAQCAAhmHogqGQphhJeidLT6j0qEdaFWrgq6uo8EJvQCwWQzAYhNlshslkojMajTQmFA5jbn6xJ+ZD+ihKb74lrfDV9kTliLhhKpfgOA6RSAR2ux02mw1WqxUWiwUsy3ZFhcNTWFpeaUv3NUjbq/B1USkFDFG5RDKZRCqVgnQUfr8fLpcLTqcTDoejHcVMisczwdCon0hLPM8tC8KorOwml8vN5PN5UigUIC2dTkM6FuleeDweuN1ujGfHMTYzRqP6IlWiWCyyYkD2a0wmk0E8Hqd3xOfzwev1igJlabnCk3K5mtUkVUMtJpFIKEpLJWFwP6OvMeLz70j/AQbDO/jKkn2HPLLeAAAAAElFTkSuQmCC" Reference="WrsAHAtIWU2ZKpN7PnD3Uw/fS0B36s31UWs__PX8nAcLA" Selector="&lt;wnd app='explorer.exe' cls='CabinetWClass' title='Google Drive (G:)' /&gt;">
+      <imageRef attrName="InformativeScreenshot" originalValue="6180d7d7a09cbe3a4b5781d4c17bbf12.png" xmlns="">0fWAC3XRm_U6nCqjb3GObBg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

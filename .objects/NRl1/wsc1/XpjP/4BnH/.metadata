@@ -1,0 +1,14 @@
+﻿{
+  "Id": "4BnHy7AkwUO8JeVJwrAyDQ",
+  "Reference": "WrsAHAtIWU2ZKpN7PnD3Uw/4BnHy7AkwUO8JeVJwrAyDQ",
+  "ParentRef": "WrsAHAtIWU2ZKpN7PnD3Uw/XpjPyL1I-kKn6TzgfgnGaQ",
+  "Name": "Click 'Agregar acceso'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-10T19:35:17.9664722Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-10T19:35:17.9664722Z"
+}
